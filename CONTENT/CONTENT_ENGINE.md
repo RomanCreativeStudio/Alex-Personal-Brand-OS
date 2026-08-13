@@ -65,6 +65,7 @@ substance; not to pad the count.
 **FORMAT:** EPISODE — see `EP-CONCEPT-001` in `CONTENT/EPISODES.md` (concept only, not duplicated here)
 **SERIES:** AIMA, THE_BUILD
 **STATUS:** IDEA
+**PLATFORM VERSIONS:** `FMT-001`, `FMT-002`, `FMT-003` in `CONTENT/FORMATS.md`
 
 ### CO-002
 
@@ -77,6 +78,7 @@ substance; not to pad the count.
 **FORMAT:** TEXT_POST
 **SERIES:** THE_JOURNEY, REAL_LIFE
 **STATUS:** IDEA
+**PLATFORM VERSIONS:** `FMT-004`, `FMT-005` in `CONTENT/FORMATS.md`
 
 ---
 
