@@ -42,6 +42,11 @@ STATUS:
 **FORMAT options:** `SHORT_VIDEO` · `LONG_VIDEO` · `CAROUSEL` · `TEXT_POST` · `STORY` · `EPISODE`
 **STATUS values:** `SIGNAL` · `IDEA` · `READY` · `PUBLISHED` · `REVISE`
 
+Once an opportunity is actually published, its outcome is tracked separately
+in `CONTENT/RESULTS.md` (see `SYSTEM/RESULTS_LOOP.md`) — linked by
+`CONTENT_ID`, not duplicated here. A result may trigger `STATUS: REVISE` on
+the opportunity without changing its source story.
+
 **Question rule:** a question becomes an opportunity only if it contains a
 useful problem, realization, decision, or lesson.
 **Story rule:** story comes before content — never reverse-engineer a fake
