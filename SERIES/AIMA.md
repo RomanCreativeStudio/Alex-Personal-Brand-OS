@@ -12,7 +12,9 @@ Don't say: "AI built AIMA for Alex."
 
 ## Log
 
-- 2026-08-13 — Origin realization captured. See `PBO-2026-08-13-001` and
-  episode concept `EP-CONCEPT-001` in `CONTENT/EPISODES.md`.
+- 2026-08-13 — **CONFIRMED.** Origin realization captured: Alex's extensive use
+  of ChatGPT and Claude surfaced friction that contributed to wanting to build
+  AIMA. See `PBO-2026-08-13-001` in `CONTENT/CAPTURES.md` and episode concept
+  `EP-CONCEPT-001` in `CONTENT/EPISODES.md`.
 
 `NEEDS_INPUT`: what AIMA actually is/does, build progress.

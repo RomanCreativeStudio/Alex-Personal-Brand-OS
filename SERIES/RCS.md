@@ -8,4 +8,7 @@ Rule: do not invent client results or business achievements (see
 
 ## Log
 
-`NEEDS_INPUT`: no entries yet.
+**Status:** PARTIAL — RCS confirmed as Alex's agency; no specific client/business
+log entries yet.
+
+`NEEDS_INPUT`: founding date, current stage, client work, wins/failures.
