@@ -33,10 +33,15 @@ work, web design, sales, outreach, pricing, systems. See `SERIES/RCS.md`.
 
 ## AIMA
 
-**CONFIRMED:** An AI system/product Alex is building. Origin context:
-extensive use of ChatGPT and Claude for learning, reasoning, development, and
-business decisions surfaced limitations and friction in that workflow — which
-contributed to wanting to build something different (captured `PBO-2026-08-13-001`).
+**CONFIRMED:** An AI system/product Alex is building.
+
+**FACT:** Alex used ChatGPT and Claude extensively for learning, reasoning,
+development, and business decisions while building.
+
+**STORY/INTERPRETATION** (Alex's own account, not independently verified):
+that experience contributed to recognizing limitations and friction in his AI
+workflow, which contributed to wanting to build something different. See
+`S-2026-08-13-001` in `STORY/KEY_MOMENTS.md` and `PBO-2026-08-13-001`.
 
 Framing: "Using AI helped me discover a problem I eventually wanted to solve" —
 not "AI built AIMA for Alex." See `SERIES/AIMA.md`.
