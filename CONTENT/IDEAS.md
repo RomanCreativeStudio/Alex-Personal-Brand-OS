@@ -1,8 +1,8 @@
 # Content Ideas
 
-Raw and developing content ideas. Not every idea becomes an episode — see
-`SYSTEM/CONTENT_RULES.md`. Ideas are captured via the `CAPTURE` command and
-developed via `EPISODE`.
+Content ideas indexed from `CONTENT/CAPTURES.md` (see
+`SYSTEM/CAPTURE_WORKFLOW.md`) and developed via `EPISODE`. Not every idea
+becomes an episode — see `SYSTEM/CONTENT_RULES.md`.
 
 ---
 

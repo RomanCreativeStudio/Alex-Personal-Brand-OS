@@ -3,7 +3,8 @@
 ## Commands
 
 **CAPTURE** — Capture the current moment/conversation as structured
-information (ID, date, source, core realization, status → `CONTENT/IDEAS.md`).
+information (ID, date, source, core realization, status → `CONTENT/CAPTURES.md`;
+full record format and lifecycle in `SYSTEM/CAPTURE_WORKFLOW.md`).
 
 **STORY** — Determine whether the information belongs in Alex's larger
 personal story (→ `STORY/MASTER_STORY.md`, `TIMELINE.md`, or `KEY_MOMENTS.md`).
